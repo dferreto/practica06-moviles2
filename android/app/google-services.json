@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "228244189484",
+    "project_id": "ferretoreact-aeb6e",
+    "storage_bucket": "ferretoreact-aeb6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228244189484:android:b3603837c689448ef37c89",
+        "android_client_info": {
+          "package_name": "com.class_06"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf2KdthDS_9SUDHo_FsMuRZQOxkeEopAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
