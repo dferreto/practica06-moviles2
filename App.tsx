@@ -3,12 +3,13 @@ import React from 'react';
 		//import ValiUser from './src/components/users/fb_Valiusers';
 			//import RegisterUser from './src/components/users/fb_Registeruser';
 			//import LoginUser from './src/components/users/fb_Loginuser';
-			import LogoutUser from './src/components/users/fb_Logoutuser';
-
+			//import LogoutUser from './src/components/users/fb_Logoutuser';
+			import InsPicture from './src/components/collections/galleria/fb_Inspicture';
+		
 			const App = () => {
 			  return (
 				<View>
-				  <LogoutUser />
+				  <InsPicture />
 				</View>
 			  );
 			};
